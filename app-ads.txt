@@ -1,1 +1,11 @@
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
 
+# Unity Ads
+unityads.unity3d.com, 1001, DIRECT, a48750b7d94c68ec
+
+# AppLovin
+applovin.com, 1001lYQbD2OeS4pG8QjzrK, DIRECT, 5b05c6d2d4d5a0c1
+
+# ironSource
+ironSource.com, 12345, DIRECT, a70c6c9e10d63e79
