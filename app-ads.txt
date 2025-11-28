@@ -1,4 +1,10 @@
-# N3M1
+# ==========================
+# Ads.txt / App-ads.txt N3 Shooter Series
+# ==========================
+
+# --------------------------
+# N3 M1 (Primer juego)
+# --------------------------
 # Unity Ads / LevelPlay
 unity.com, 4673985194130, DIRECT, 96cabb5fbdde37a7
 
@@ -8,6 +14,8 @@ chartboost.com, 68d470b6b38418d3e790da0f, DIRECT, 8a4c8f4c5b1a2f3d
 # ironSource (si se usa)
 ironsource.com, 21d0a08f5, DIRECT, a70c6c9e10d63e79
 
-# N3M2 y siguientes (Appodeal)
+# --------------------------
+# N3 M2 y siguientes
+# --------------------------
 # Appodeal
 appodeal.com, b68f3765009cc4b8dcdd04b7d0e667f13739b34ef2e5f094, DIRECT
