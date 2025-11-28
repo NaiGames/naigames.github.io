@@ -1,5 +1,4 @@
 # N3M1
-
 # Unity Ads / LevelPlay
 unity.com, 4673985194130, DIRECT, 96cabb5fbdde37a7
 
@@ -12,6 +11,3 @@ ironsource.com, 21d0a08f5, DIRECT, a70c6c9e10d63e79
 # N3M2 y siguientes (Appodeal)
 # Appodeal
 appodeal.com, b68f3765009cc4b8dcdd04b7d0e667f13739b34ef2e5f094, DIRECT
-
-
-
